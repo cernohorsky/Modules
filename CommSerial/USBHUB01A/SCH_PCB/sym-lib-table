@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name usbhub01a-rescue)(type Legacy)(uri ${KIPRJMOD}/usbhub01a-rescue.lib)(options "")(descr ""))
+)
